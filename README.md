@@ -3,6 +3,8 @@
 This jQuery plugin will use pure CSS (modern browsers only) to draw a circle with a number from 0 - 100, 
 and will draw a colored border arc.
 
+![Example](http://noblenorthwest.com/dev/git/jquery.pctcircle/circle progress.png)
+
 
 ## SETTINGS
 
