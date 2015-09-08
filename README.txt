@@ -37,7 +37,7 @@ JAVASCRIPT
 
 $("#progress").PctCircle({pct: 100, barColor: 'green'})
 
-
+LIVE DEMO ON JSFIDDLE: http://jsfiddle.net/d779m5en/
 
 FILES INCLUDED
 
