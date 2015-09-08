@@ -8,6 +8,9 @@ TITLE
 JQUERY PLUGIN PctCircle (Percent Circle)
 
 
+![Example](http://noblenorthwest.com/dev/git/jquery.pctcircle/circle progress.png)
+
+
 SUMMARY
 This jQuery plugin will use pure CSS (modern browsers only) to draw a circle with a number from 0 - 100, 
 and will draw a colored border arc.
